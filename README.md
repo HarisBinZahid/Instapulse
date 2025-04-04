@@ -1,3 +1,7 @@
+## About Instapulse
+
+MongoDB with Laravel by building an Instagram clone. Learn document-based schema design, authentication, social features, and performance optimization techniques. Perfect for Laravel developers ready to move beyond SQL databases and leverage MongoDB's flexibility and scalability for modern web applications.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
